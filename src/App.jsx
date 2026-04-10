@@ -17,6 +17,8 @@ const QUICK_CITIES = [
   { name: "Mumbai", flag: "🇮🇳" },
   { name: "Dubai", flag: "🇦🇪" },
   { name: "Sydney", flag: "🇦🇺" },
+
+  
   { name: "Paris", flag: "🇫🇷" },
   { name: "Singapore", flag: "🇸🇬" },
 ];

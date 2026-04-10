@@ -1,4 +1,4 @@
-// LoadingSpinner.jsx — Professional loading state
+
 import React from "react";
 
 const LoadingSpinner = () => (
